@@ -49,11 +49,11 @@ set Magnitude on 5 and Variance on 0.9
 
 ----------
 
-Create 2 objects in Maya
+Create 2 polygon primitives in Maya
 
-Maya hypergraph: connect output_objectNode1_translateX to gaussian_Invalue,
+Maya hypergraph: connect output_polygonNode1_translateX to gaussian_Invalue,
 
-gaussian_OutValue to input_objectNode2_translateY
+gaussian_OutValue to input_polygonNode2_translateY
 
 ----------
 
