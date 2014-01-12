@@ -41,11 +41,13 @@ Test:
 
 Maya mel cmdline: createNode gaussian, to create gaussianNode
 
+----------
 
 gaussianNode inValue, Magnitude, Mean and Variance are editable.
 
 set Magnitude on 5 and Variance on 0.9
 
+----------
 
 Create 2 objects in Maya
 
@@ -53,6 +55,7 @@ Maya hypergraph: connect output_objectNode1_translateX to gaussian_Invalue,
 
 gaussian_OutValue to input_objectNode2_translateY
 
+----------
 
 move objectNode1 over x to objectNode2, objectnode2 responds in y-axsis. (Bell Curve)
 
