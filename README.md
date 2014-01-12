@@ -57,6 +57,6 @@ gaussian_OutValue to input_objectNode2_translateY
 
 ----------
 
-move objectNode1 over x to objectNode2, objectnode2 responds in y-axsis. (Bell Curve)
+move objectNode1 over x to objectNode2, objectnode2 responds on y. (Bell Curve)
 
 -------------------------------------------------------------------------------------
