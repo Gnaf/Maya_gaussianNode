@@ -57,6 +57,6 @@ gaussian_OutValue to input_polygonNode2_translateY
 
 ----------
 
-move objectNode1 over x to objectNode2, objectnode2 responds on y. (Bell Curve)
+move polygonNode1 over x to polygonNode2, polygonNode2 responds on y. (Bell Curve)
 
 -------------------------------------------------------------------------------------
