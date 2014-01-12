@@ -26,7 +26,7 @@ OpenMayaFX.lib;OpenMayaRender.lib;Image.lib;opengl32.lib;glu32.lib
 
 -C/C++ general Additional Include Directories: C:\Program Files\Autodesk\Maya2012\include
 
--C/C++ preprocessor Preprocessor Defenitions: WIN32;NDEBUG;_WINDOWS;NT_PLUGIN;REQUIRE_IOSTREAM
+-C/C++ preprocessor Preprocessor Defenitions: WIN32;NDEBUG;_ WINDOWS;NT_ PLUGIN;REQUIRE_IOSTREAM
 
 -------------------------------------------------------------------------------------
 
